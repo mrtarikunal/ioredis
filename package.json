@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js"
   },
-  "author": "Taik Unal",
+  "author": "Tarik Unal",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
